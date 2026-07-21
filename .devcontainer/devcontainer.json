@@ -1,6 +1,16 @@
 {
-    "image": "ghcr.io/devcontainers/templates/rust:5.0.0",
+    "image": "ghcr.io/devcontainers/templates/rust:latest",
     "features": {
         "ghcr.io/devcontainer-community/devcontainer-features/neovim.io:1": {}
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "jdinhlife.gruvbox"
+            ],
+            "settings": {
+                "workbench.colorTheme": "Gruvbox Dark Hard"
+            }
+        }
     }
 }

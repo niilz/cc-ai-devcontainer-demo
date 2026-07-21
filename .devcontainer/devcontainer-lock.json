@@ -1,0 +1,9 @@
+{
+  "features": {
+    "ghcr.io/devcontainer-community/devcontainer-features/neovim.io:1": {
+      "version": "1.0.3",
+      "resolved": "ghcr.io/devcontainer-community/devcontainer-features/neovim.io@sha256:534aa717abab63f4f0b78b572ece6bfbb2c47e6ae92ddb791af02076b5f37836",
+      "integrity": "sha256:534aa717abab63f4f0b78b572ece6bfbb2c47e6ae92ddb791af02076b5f37836"
+    }
+  }
+}
