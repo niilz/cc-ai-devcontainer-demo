@@ -1,5 +1,5 @@
 {
-    "image": "mcr.microsoft.com/devcontainers/rust:latest",
+    "image": "mcr.microsoft.com/devcontainers/rust:bookworm",
     "features": {
         "ghcr.io/devcontainer-community/devcontainer-features/neovim.io:1": {}
     }
